@@ -1,0 +1,28 @@
+.content {
+	position: relative;
+	min-height: 100vh;
+	padding: 50px 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center
+	flex-direction: column;
+}
+
+.content .text-center {
+	max-width: 800px;
+	text-align: center;
+}
+
+.content .text-center h5 {
+	font-size: 25px;
+	font-weight: 500;
+	color: black;
+}
+
+.fa-coffee {
+	color: #694000;
+}
+
+.fa-money-check-alt {
+	color: #098c04;
+}
